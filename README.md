@@ -5,7 +5,7 @@
 
 ## View the Project
 
-# [Click Here](https://hanbollar.github.io/Project4-Shape-Grammar/)
+# [Click Here](https://hanbollar.github.io/Shape-Grammar/)
 
 ## Symbol Node
 Instead of modifying my symbol node class, I actually used that class from the previous homework just for rule creation and assembly. From there i built off a TreeNode class which included the heirarchy and building up locations of each of my objects. This allowed me to build up in scale and easily connect objects to one another by particular dimension choices based on current height value of the object being added and maintain parental attributes for the children as well.
@@ -29,17 +29,17 @@ Added a ground plane and skybox. Built from the ground plane using my TreeNode s
 ## Photos of renders
 
 The below render is my first render. It was not built in the TreeNode design but in fact just manual placement of blocks based on positions of other blocks to make sure I understood how to do it properly.
-![Test Render](https://github.com/hanbollar/Project4-Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/1.png "Test Render")
+![Test Render](https://github.com/hanbollar/Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/1.png "Test Render")
 
 The following renders exhibit some scenes that came up during certain iterations
-![Scene Demo 1](https://github.com/hanbollar/Project4-Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/2.png "Scene Demo 1")
-![Scene Demo 2](https://github.com/hanbollar/Project4-Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/3.png "Scene Demo 2")
+![Scene Demo 1](https://github.com/hanbollar/Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/2.png "Scene Demo 1")
+![Scene Demo 2](https://github.com/hanbollar/Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/3.png "Scene Demo 2")
 
 The following renders strongly exhibit the implementation of how geometry goes up the heirarchy if not yet defined.
-![Geometry Inheritance 1](https://github.com/hanbollar/Project4-Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/7.png "Geometry Inheritance 1")
-![Geometry Inheritance 2](https://github.com/hanbollar/Project4-Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/5.png "Geometry Inheritance 2")
+![Geometry Inheritance 1](https://github.com/hanbollar/Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/7.png "Geometry Inheritance 1")
+![Geometry Inheritance 2](https://github.com/hanbollar/Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/5.png "Geometry Inheritance 2")
 
 Detail of an amalgamation of lots of geometry.<br />
-![Detail](https://github.com/hanbollar/Project4-Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/4.png "Detail")
+![Detail](https://github.com/hanbollar/Shape-Grammar/blob/697f06241b50ccf78fdb424311ab38b4e97ac70e/shotsForVisual/4.png "Detail")
 
 
